@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ads on 成都基督徒小站</title>
+    <link>https://028777.github.io/ad/</link>
+    <description>Recent content in Ads on 成都基督徒小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+	<atom:link href="https://028777.github.io/ad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>以利沙学堂</title>
+      <link>https://028777.github.io/ad/elishaschool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://028777.github.io/ad/elishaschool/</guid>
+      <description>以利沙学堂 Elisha School 简介 以利沙学堂成立与2013年9月，位于成都双流区西航港街道。学堂现有幼儿园部、小学部、初中部和高中部，共有学生30多人。有一</description>
+    </item>
+    
+    <item>
+      <title>每日更新三一书店</title>
+      <link>https://028777.github.io/ad/sanyishudian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://028777.github.io/ad/sanyishudian/</guid>
+      <description>三一书店 简介 每日更新三一书店，又名全新图书专营店，是一家主内书店。经营图书、音像、礼品、饮品，等等。三一书店有实体店和网店，实体店和网店同步</description>
+    </item>
+    
+  </channel>
+</rss>
