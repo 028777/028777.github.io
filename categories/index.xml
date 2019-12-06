@@ -6,10 +6,19 @@
     <description>Recent content in Categories on 成都基督徒小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://028777.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>活动</title>
+      <link>https://028777.github.io/categories/%E6%B4%BB%E5%8A%A8/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://028777.github.io/categories/%E6%B4%BB%E5%8A%A8/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>四川教会史</title>
@@ -17,15 +26,6 @@
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://028777.github.io/categories/%E5%9B%9B%E5%B7%9D%E6%95%99%E4%BC%9A%E5%8F%B2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>活动</title>
-      <link>https://028777.github.io/categories/%E6%B4%BB%E5%8A%A8/</link>
-      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://028777.github.io/categories/%E6%B4%BB%E5%8A%A8/</guid>
       <description></description>
     </item>
     
