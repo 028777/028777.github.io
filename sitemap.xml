@@ -9,27 +9,6 @@
   </url>
   
   <url>
-    <loc>https://028777.github.io/post/</loc>
-    <lastmod>2019-12-07T14:18:32+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://028777.github.io/2019/12/07/</loc>
-    <lastmod>2019-12-07T14:18:32+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://028777.github.io/</loc>
-    <lastmod>2019-12-07T14:18:32+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://028777.github.io/categories/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -37,7 +16,21 @@
   </url>
   
   <url>
+    <loc>https://028777.github.io/post/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://028777.github.io/tags/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://028777.github.io/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -233,14 +226,14 @@
   </url>
   
   <url>
-    <loc>https://028777.github.io/tags/%E5%88%9B%E4%BD%9C/</loc>
+    <loc>https://028777.github.io/categories/%E5%88%9B%E4%BD%9C/</loc>
     <lastmod>2017-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://028777.github.io/categories/%E5%88%9B%E4%BD%9C/</loc>
+    <loc>https://028777.github.io/tags/%E5%88%9B%E4%BD%9C/</loc>
     <lastmod>2017-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
