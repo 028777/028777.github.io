@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>散文 on 成都基督徒小站</title>
-    <link>https://028777.xyz/categories/%E6%95%A3%E6%96%87/</link>
+    <link>https://028777.xyz/tags/%E6%95%A3%E6%96%87/</link>
     <description>Recent content in 散文 on 成都基督徒小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://028777.xyz/categories/%E6%95%A3%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://028777.xyz/tags/%E6%95%A3%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://028777.xyz/2020/02/13/</guid>
       <description>作者：禧年 爸爸被抬回家那天，我喊他，他没有应我。我摸他的头发，硬硬的有点扎手。我和弟弟妹妹跪在棺木前，满屋的大人，我们不敢抬头，就盯着暗红的</description>
-    </item>
-    
-    <item>
-      <title>面对灰犀牛</title>
-      <link>https://028777.xyz/2020/02/04/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://028777.xyz/2020/02/04/</guid>
-      <description>十多年前Nassim Nicholas Taleb写下《黑天鹅》，这本关于如何应对不可预知危机的一本书；后来Michele Wucker写了《灰犀牛》警戒大众更</description>
     </item>
     
   </channel>
