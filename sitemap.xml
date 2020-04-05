@@ -10,34 +10,62 @@
   
   <url>
     <loc>https://028777.xyz/categories/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://028777.xyz/post/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://028777.xyz/tags/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://028777.xyz/2020/02/13/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <loc>https://028777.xyz/tags/%E5%86%89%E4%BA%91%E9%A3%9E/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://028777.xyz/2020/04/03/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://028777.xyz/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://028777.xyz/categories/%E8%A7%81%E8%AF%81/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://028777.xyz/tags/%E8%A7%81%E8%AF%81/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://028777.xyz/2020/02/13/</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -58,21 +86,7 @@
   </url>
   
   <url>
-    <loc>https://028777.xyz/tags/%E8%A7%81%E8%AF%81/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://028777.xyz/2020/02/12/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://028777.xyz/categories/%E8%A7%81%E8%AF%81/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -226,14 +240,14 @@
   </url>
   
   <url>
-    <loc>https://028777.xyz/categories/%E5%9B%9B%E5%B7%9D%E6%95%99%E4%BC%9A%E5%8F%B2/</loc>
+    <loc>https://028777.xyz/tags/%E5%9B%9B%E5%B7%9D%E6%95%99%E4%BC%9A%E5%8F%B2/</loc>
     <lastmod>2019-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://028777.xyz/tags/%E5%9B%9B%E5%B7%9D%E6%95%99%E4%BC%9A%E5%8F%B2/</loc>
+    <loc>https://028777.xyz/categories/%E5%9B%9B%E5%B7%9D%E6%95%99%E4%BC%9A%E5%8F%B2/</loc>
     <lastmod>2019-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -254,14 +268,14 @@
   </url>
   
   <url>
-    <loc>https://028777.xyz/categories/%E6%8E%A8%E5%B9%BF/</loc>
+    <loc>https://028777.xyz/tags/%E6%8E%A8%E5%B9%BF/</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://028777.xyz/tags/%E6%8E%A8%E5%B9%BF/</loc>
+    <loc>https://028777.xyz/categories/%E6%8E%A8%E5%B9%BF/</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -304,6 +318,13 @@
   
   <url>
     <loc>https://028777.xyz/church/enguangtang/</loc>
+    <lastmod>2019-10-19T12:14:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://028777.xyz/church/earlyrain/</loc>
     <lastmod>2019-10-19T12:14:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
